@@ -1,6 +1,6 @@
 # github-setup
 
-A guide to set up Github with SSH authentication and signed commits
+GitHub’s documentation for setting up Git on a new machine is scattered across many pages. This guide collects all the necessary steps in one place to make the process easier.
 
 ## Set user name and email
 
@@ -10,8 +10,6 @@ git config --global user.email "YOUR_EMAIL"
 ```
 
 ## Connecting to GitHub with SSH
-
-[Connecting over HTTPS](https://docs.github.com/en/get-started/git-basics/caching-your-github-credentials-in-git) seems to be the recommended way, but if you want SSH these are the steps:
 
 ### Check for existing keys
 
