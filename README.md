@@ -1,4 +1,4 @@
-# github-setup
+# Set up Git
 
 GitHub’s documentation for setting up Git on a new machine is scattered across many pages. This guide collects all the necessary steps in one place to make the process easier.
 
